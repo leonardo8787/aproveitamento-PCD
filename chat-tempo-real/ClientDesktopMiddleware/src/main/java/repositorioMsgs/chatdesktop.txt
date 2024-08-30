@@ -1,0 +1,10 @@
+
+<font color="Verde">leonardo</font> diz: ola<br>
+<font color="Verde">leonardo</font> diz: :-)<br>
+<font color="Verde">leonardo</font> diz: ola :-(<br>
+<font color="Verde">tilapio</font> diz: oi<br>
+<font color="Verde">tilapio</font> diz: oi<br>
+<font color="Verde">tilapio</font> diz: oi<br>
+<font color="Verde">leonardo</font> diz: oi<br>
+<font color="Vermelho">leonardo</font> diz: ola<br>
+<font color="Azul">desktop</font> diz: oi<br><font color="Verde">patrick</font> diz: ooi<br><font color="Vermelho">web</font> diz: oi leo :-)<br><font color="Vermelho">web</font> diz: oi desktop :-(<br><font color="Verde">Pegador de coroas</font> diz: oi vai sefuder<br><font color="Verde">Pegador de coroas</font> diz: bomd+<br><font color="Verde">Pegador de coroas</font> diz: olá emojis :-) :-( :-/ S2<br><font color="Blue">Anjo a ser papado</font> diz: teste<br>

@@ -1,0 +1,10 @@
+
+<img src="imagens/avatar4.png" width="30" height="30"><font color="Verde">leonardo</font> says: ola<br>
+<img src="imagens/avatar4.png" width="30" height="30"><font color="Verde">leonardo</font> says: &#128522;<br>
+<img src="imagens/avatar4.png" width="30" height="30"><font color="Verde">leonardo</font> says: ola &#128542;<br>
+<img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Verde">tilapio</font> says: oi<br>
+<img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Verde">tilapio</font> says: oi<br>
+<img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Verde">tilapio</font> says: oi<br>
+<img src="imagens/avatar4.png" width="30" height="30"><font color="Verde">leonardo</font> says: oi<br>
+<img src="imagens/avatar2.png" width="30" height="30"><font color="Vermelho">leonardo</font> says: ola<br>
+<img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Azul">desktop</font> says: oi<br><img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Verde">patrick</font> says: ooi<br><img src="imagens/avatar2.png" width="30" height="30"><font color="Vermelho">web</font> says: oi leo &#128522;<br><img src="imagens/avatar2.png" width="30" height="30"><font color="Vermelho">web</font> says: oi desktop &#128542;<br><img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Verde">Pegador de coroas</font> says: oi vai &#128076;<br><img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Verde">Pegador de coroas</font> says: &#128588;<br><img src="repositorio/imagens/avatar1.png" width="30" height="30"><font color="Verde">Pegador de coroas</font> says: olá emojis &#128522; &#128542; &#128533; &#65039;<br><img src="imagens/avatar2.png" width="30" height="30"><font color="Blue">Anjo a ser papado</font> says: teste<br>
