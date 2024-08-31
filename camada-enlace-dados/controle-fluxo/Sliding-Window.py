@@ -2,8 +2,8 @@ import time
 
 def send_frame_sw(frame):
     print(f"Sending frame {frame}")
-    time.sleep(1)  # Simulating network delay
-    return True  # Simulating successful ACK
+    time.sleep(1)  
+    return True  
 
 def sliding_window(frames, window_size):
     send_base = 0
