@@ -32,9 +32,9 @@ A camada de aplicações é a camada mais próxima do usuário final e fornece s
 
 Basta dar um:
 
-~~
+~~~
 python main.py
-~~
+~~~
 
 ou, substituir o nome 'main.py' pelo nome do arquivo em questão.
 
