@@ -26,3 +26,32 @@ A camada de transporte é responsável pela comunicação de dados entre sistema
 
 ### Definição
 A camada de aplicações é a camada mais próxima do usuário final e fornece serviços de rede diretamente para aplicações de software. Ela é responsável pela interface entre as aplicações e a rede, lidando com protocolos como HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol) e SMTP (Simple Mail Transfer Protocol).
+
+
+# Para rodar as aplicações
+
+Basta dar um:
+
+~~
+python main.py
+~~
+
+ou, substituir o nome 'main.py' pelo nome do arquivo em questão.
+
+# Ambiente Docker
+
+O ambiente docker, é para casos onde o usuário não queira instalar as bibliotecas na máquinas. No caso, foi feita apenas uma base do docker, o usuário que for utilizar tem que finalizar importando as pastas que quiser, e/ou colocando as dependências adicionais. Vale ressaltar que eu coloquei apenas as libs base. Com isso, o usuário tendo ajustado o próprio docker, a gosto, para executar basta executar os comandos:
+
+~~~
+docker build -t nome-da-imagem .
+~~~
+
+~~~
+docker run -d --name nome-do-container -p 8080:80 nome-da-imagem
+~~~
+
+~~~
+docker exec -it nome-do-container /bin/bash
+~~~
+
+
