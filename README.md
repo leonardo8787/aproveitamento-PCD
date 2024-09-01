@@ -47,11 +47,7 @@ docker build -t nome-da-imagem .
 ~~~
 
 ~~~
-docker run -d --name nome-do-container -p 8080:80 nome-da-imagem
+docker run -it --name <nome-da-imagem> <id-da-imagem> /bin/bash
 ~~~
 
-~~~
-docker exec -it nome-do-container /bin/bash
-~~~
-
-
+Depois é só sucesso!!!
