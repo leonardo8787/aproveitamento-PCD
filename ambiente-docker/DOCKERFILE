@@ -1,0 +1,16 @@
+FROM ubuntu:latest
+
+RUN apt-get update && \
+    apt-get install -y python3 python3-pip
+
+RUN pip3 install  flask os socket time random trading heapq
+
+COPY . /camada-aplicacao
+COPY . /camada-enlace-dados
+COPY . /camada-fisica
+COPY . /camada-rede
+COPY . /camada-trasporte
+
+WORKDIR /app
+
+CMD ["python3"]
